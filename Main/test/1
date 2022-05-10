@@ -1,0 +1,5 @@
+import settings
+settings.init("1st")
+
+import subfile
+subfile.print()
